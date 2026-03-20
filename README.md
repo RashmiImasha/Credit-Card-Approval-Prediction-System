@@ -19,16 +19,16 @@ This project builds an **end-to-end ML pipeline** that:
 
 ## Machine Learning Pipeline
 
-<img src="MLpipeline.png" height="700">
+<img src="MLPipeline.png" width="700">
 
 ---
 
 ## Tech Stack
 
-Programming : Python
-Libraries : Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Imbalanced-learn (SMOTE)
-ML Models: Logistic Regression | SVM
-Concepts : Machine Learning | Classification | Imbalanced Data Handling | Feature Engineering | Data Preprocessing | Model Evaluation
+- Programming : Python
+- Libraries : Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Imbalanced-learn (SMOTE)
+- ML Models: Logistic Regression | SVM
+- Concepts : Machine Learning | Classification | Imbalanced Data Handling | Feature Engineering | Data Preprocessing | Model Evaluation
 
 ---
 
